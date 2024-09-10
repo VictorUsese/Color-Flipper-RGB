@@ -1,0 +1,29 @@
+.container{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  border: solid greenyellow 5px;
+  background-color: azure;
+  margin-top: 20px;
+}
+
+button{
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+#red-btn{
+  background-color: red;
+}
+
+#green-btn{
+  background-color: green;
+}
+
+#blue-btn{
+  background-color: blue;
+}
